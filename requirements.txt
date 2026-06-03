@@ -5,3 +5,5 @@ pydantic[email]
 aiofiles
 selenium
 webdriver-manager
+playwright
+pytest-playwright
